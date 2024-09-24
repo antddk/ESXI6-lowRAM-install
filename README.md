@@ -1,5 +1,4 @@
-# ESXI6-lowRAM-install
-ESXI 6.0 and low RAM (MEMORY_SIZE ERROR)
+# ESXI 6.0 and low RAM (MEMORY_SIZE ERROR)
 
 When you get error MEMORY_SIZE ERROR, press ALT+F1 and fix upgrade_precheck.py, line MEM_MIN_SIZE.
 User root without password
